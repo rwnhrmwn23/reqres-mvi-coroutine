@@ -1,4 +1,4 @@
-package com.moon.reqres
+package com.onedev.reqres
 
 import org.junit.Test
 

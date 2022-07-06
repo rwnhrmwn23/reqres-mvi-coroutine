@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">reqres</string>
+    <string name="fetch_data">fetch data</string>
 </resources>
